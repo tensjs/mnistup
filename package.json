@@ -1,0 +1,28 @@
+{
+  "name": "mnistup",
+  "version": "1.0.0",
+  "description": "mnist data source prepared package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yorkie/mnistup.git"
+  },
+  "keywords": [
+    "mnist",
+    "tensorflow"
+  ],
+  "author": "Yazhong Liu <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/mnistup/issues"
+  },
+  "homepage": "https://github.com/yorkie/mnistup#readme",
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "numjs": "^0.14.0",
+    "progress": "^2.0.0"
+  }
+}
