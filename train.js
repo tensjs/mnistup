@@ -1,6 +1,6 @@
 'use strict';
 
-const tf = require('../client/');
+const tf = require('tensorflow2');
 const graph = tf.graph();
 const session = tf.session();
 const dataset = require('./dataset');

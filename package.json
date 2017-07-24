@@ -1,7 +1,7 @@
 {
   "name": "mnistup",
   "version": "1.0.0",
-  "description": "mnist data source prepared package",
+  "description": "The MNIST example for tensorflow-nodejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/yorkie/mnistup#readme",
   "dependencies": {
+    "tensorflow2": "^1.0.21",
     "event-stream": "^3.3.4",
     "numjs": "^0.14.0",
     "progress": "^2.0.0"
