@@ -1,5 +1,7 @@
 # MNIST 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tensjs/mnistup.svg)](https://greenkeeper.io/)
+
 The MNIST example for [tensorflow-nodejs](https://github.com/yorkie/tensorflow-nodejs).
 
 ### Get Started
